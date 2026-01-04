@@ -18,13 +18,13 @@
 <!-- Contact / Reach Out -->
 
 <p align="center">
-  <a href="https://linkedin.com"><img src="https://img.shields.io/badge/LinkedIn-Fahim%20Hossen-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:your@email.com"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=flat&logo=gmail&logoColor=white" /></a>
+  <a href="www.linkedin.com/in/fahim-hossen-3aa2b0200"><img src="https://img.shields.io/badge/LinkedIn-Fahim%20Hossen-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:fahim1020pantho@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=flat&logo=gmail&logoColor=white" /></a>
   <a href="https://your-portfolio.com"><img src="https://img.shields.io/badge/Portfolio-Website-333333?style=flat&logo=google-chrome&logoColor=white" /></a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=6C757D&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=fhpantho&label=Profile%20Views&color=6C757D&style=flat" />
 </p>
 
 ---
