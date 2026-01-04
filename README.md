@@ -1,62 +1,55 @@
+<!-- ===================== PROFESSIONAL STARTUP GITHUB PROFILE README ===================== -->
 
-<!-- ===================== STARTUP STYLE GITHUB PROFILE README ===================== -->
-
-<!-- Banner Image -->
+<!-- Banner -->
 
 <p align="center">
-  <img src="https://i.ibb.co.com/jN1rNLC/1.png" alt="Fahim Hossen Banner" />
+  <img src="https://i.ibb.co.com/jN1rNLC/1.png" alt="Fahim Hossen | Full Stack MERN Developer" />
 </p>
 
 <h1 align="center">Fahim Hossen</h1>
-<h3 align="center">Full Stack MERN Developer | Startup Mindset 🚀</h3>
+<h3 align="center">Full Stack MERN Developer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Building+Scalable+Web+Applications;MERN+Stack+Specialist;React+%7C+Node.js+%7C+MongoDB;Clean+Code+%7C+Modern+UI+UX" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&size=20&pause=1200&color=4F8CC9&center=true&vCenter=true&width=620&lines=Designing+Scalable+Web+Applications;MERN+Stack+Specialist;React+and+Node.js+Engineer;Clean+Architecture+%26+Maintainable+Code" />
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,js,tailwind,git&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,js,tailwind,git&theme=light" />
 </p>
 
-<!-- Reach Out Section -->
+<!-- Contact / Reach Out -->
 
 <p align="center">
-  <a href="https://linkedin.com"><img src="https://img.shields.io/badge/LinkedIn-Fahim%20Hossen-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:your@email.com"><img src="https://img.shields.io/badge/Email-Reach%20Out-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://your-portfolio.com"><img src="https://img.shields.io/badge/Portfolio-Startup%20Ready-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="https://linkedin.com"><img src="https://img.shields.io/badge/LinkedIn-Fahim%20Hossen-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:your@email.com"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=flat&logo=gmail&logoColor=white" /></a>
+  <a href="https://your-portfolio.com"><img src="https://img.shields.io/badge/Portfolio-Website-333333?style=flat&logo=google-chrome&logoColor=white" /></a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=ff69b4&style=flat-square" />
+  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=6C757D&style=flat" />
 </p>
 
 ---
 
-## 🧑‍💻 About Me
+## Professional Summary
 
-I am a **Full Stack MERN Developer** passionate about building **modern, scalable, and high-performance web applications**. I enjoy working in startup-like environments where ideas turn into real products.
-
-* 🔭 Working with **React, Node.js, Express & MongoDB**
-* 🌱 Learning **system design & backend optimization**
-* 💡 Love clean architecture and pixel-perfect UI
-* 🎯 Goal: Build impactful tech products
+Full Stack **MERN Developer** with experience in building **secure, scalable, and high-performance web applications**. Strong focus on clean code, modern UI/UX, RESTful APIs, and maintainable backend architecture. Comfortable working in fast-paced, startup-oriented environments.
 
 ---
 
-## 🛠️ Tech Stack
+## Core Skills
 
-**Frontend**
+**Frontend Development**
 
-* React.js
-* JavaScript (ES6+)
-* HTML5, CSS3
-* Tailwind CSS
+* React.js, JavaScript (ES6+)
+* HTML5, CSS3, Tailwind CSS
+* Responsive & accessible UI
 
-**Backend**
+**Backend Development**
 
-* Node.js
-* Express.js
-* REST APIs
+* Node.js, Express.js
+* RESTful API design
+* Authentication & authorization
 
 **Database & Tools**
 
@@ -67,29 +60,34 @@ I am a **Full Stack MERN Developer** passionate about building **modern, scalabl
 
 ---
 
-## 🚀 Featured Projects
+## Selected Projects
 
-* **Project One** – MERN stack application with authentication and dashboard
-* **Project Two** – REST API with role-based access control
-* **Project Three** – Modern React UI with Tailwind CSS
+* **MERN Web Application** – Authentication, role-based access, dashboard-driven UI
+* **REST API Service** – Secure and scalable API with MongoDB
+* **Modern Frontend UI** – React and Tailwind CSS based design system
 
-> ⭐ Explore my repositories to see real-world projects and clean code practices.
+> Detailed documentation and source code are available in my repositories.
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=default" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=default" height="165" />
 </p>
 
 ---
 
-## ⚡ Fun Fact
+## Professional Interests
 
-I love turning startup ideas into **real, scalable products** 🚀
+* Scalable web architecture
+* Performance optimization
+* Clean code & best practices
+* Product-focused development
 
 ---
 
-⭐ **If you like my work,
+⭐ If you find my work valuable, feel free to explore my repositories and connect with me.
+
+<!-- ===================== END README ===================== -->
