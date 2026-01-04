@@ -73,8 +73,8 @@ Full Stack **MERN Developer** with experience in building **secure, scalable, an
 ## GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=default" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=default" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=fhpantho&show_icons=true&theme=default" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fhpantho&layout=compact&theme=default" height="165" />
 </p>
 
 ---
