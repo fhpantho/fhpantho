@@ -60,9 +60,60 @@ Full Stack **MERN Developer** with experience in building **secure, scalable, an
 
 ## Selected Projects
 
-* **MERN Web Application** – Authentication, role-based access, dashboard-driven UI
-* **REST API Service** – Secure and scalable API with MongoDB
-* **Modern Frontend UI** – React and Tailwind CSS based design system
+🚀 Selected Projects
+🧠 Habit Tracker (MERN Stack SPA)
+
+A productivity-focused web application that allows users to build, track, and maintain daily habits with a clean and intuitive interface.
+
+Key Features
+
+User authentication using Firebase
+
+Create, update, and track daily habits
+
+Habit completion tracking for consistency
+
+Responsive UI with modern UX
+
+Single Page Application using React Router
+
+Tech Stack
+
+React.js, Tailwind CSS
+
+Node.js, Express.js
+
+MongoDB
+
+Firebase Authentication
+
+🏢 AssetVerse (HR Asset Management System)
+
+A full-stack HR asset management platform designed to streamline employee asset distribution and request tracking within an organization.
+
+Key Features
+
+Role-based system (HR & Employee)
+
+HR can assign assets to employees
+
+Employees can request assets and track request status
+
+Secure authentication with Firebase
+
+Dashboard-driven SPA architecture
+
+Tech Stack
+
+React.js, Tailwind CSS
+
+Node.js, Express.js
+
+MongoDB
+
+Firebase Authentication
+
+React Router (SPA)
 
 > Detailed documentation and source code are available in my repositories.
 
