@@ -18,7 +18,7 @@
 <!-- Contact / Reach Out -->
 
 <p align="center">
-  <a href="www.linkedin.com/in/fahim-hossen-3aa2b0200"><img src="https://img.shields.io/badge/LinkedIn-fahim-hossen-3aa2b0200?style=flat&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/fahim-hossen-3aa2b0200"><img src="https://img.shields.io/badge/LinkedIn-fahim--hossen-blue?style=flat&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:fahim1020pantho@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=flat&logo=gmail&logoColor=white" /></a>
   <a href="https://your-portfolio.com"><img src="https://img.shields.io/badge/Portfolio-Website-333333?style=flat&logo=google-chrome&logoColor=white" /></a>
 </p>
@@ -29,97 +29,84 @@
 
 ---
 
-## Professional Summary
+## 👨‍💻 Professional Summary
 
-Full Stack **MERN Developer** with experience in building **secure, scalable, and high-performance web applications**. Strong focus on clean code, modern UI/UX, RESTful APIs, and maintainable backend architecture. Comfortable working in fast-paced, startup-oriented environments.
+Full Stack **MERN Developer** with hands-on experience building **secure, scalable, and high-performance Single Page Applications**. Strong focus on clean code, reusable components, RESTful APIs, and real-world problem solving. Passionate about building production-ready applications for startups and business use cases.
 
 ---
 
-## Core Skills
+## 🛠 Core Skills
 
-**Frontend Development**
+### Frontend Development
 
 * React.js, JavaScript (ES6+)
 * HTML5, CSS3, Tailwind CSS
+* SPA architecture with React Router
 * Responsive & accessible UI
 
-**Backend Development**
+### Backend Development
 
 * Node.js, Express.js
 * RESTful API design
 * Authentication & authorization
 
-**Database & Tools**
+### Database & Tools
 
 * MongoDB
+* Firebase Authentication
 * Git & GitHub
-* Firebase
 * Vercel / Netlify
 
 ---
 
-## Selected Projects
+## 🚀 Selected Projects
 
-🚀 Selected Projects
-🧠 Habit Tracker (MERN Stack SPA)
+### 🧠 Habit Tracker (MERN Stack SPA)
 
-A productivity-focused web application that allows users to build, track, and maintain daily habits with a clean and intuitive interface.
+A productivity-focused web application that enables users to **build, track, and maintain daily habits** through an intuitive and responsive interface.
 
-Key Features
+**Key Features**
 
-User authentication using Firebase
+* Secure user authentication using **Firebase**
+* Create, update, and manage daily habits
+* Habit completion tracking for consistency
+* Modern, responsive UI with Tailwind CSS
+* Single Page Application using **React Router**
 
-Create, update, and track daily habits
+**Tech Stack**
 
-Habit completion tracking for consistency
-
-Responsive UI with modern UX
-
-Single Page Application using React Router
-
-Tech Stack
-
-React.js, Tailwind CSS
-
-Node.js, Express.js
-
-MongoDB
-
-Firebase Authentication
-
-🏢 AssetVerse (HR Asset Management System)
-
-A full-stack HR asset management platform designed to streamline employee asset distribution and request tracking within an organization.
-
-Key Features
-
-Role-based system (HR & Employee)
-
-HR can assign assets to employees
-
-Employees can request assets and track request status
-
-Secure authentication with Firebase
-
-Dashboard-driven SPA architecture
-
-Tech Stack
-
-React.js, Tailwind CSS
-
-Node.js, Express.js
-
-MongoDB
-
-Firebase Authentication
-
-React Router (SPA)
-
-> Detailed documentation and source code are available in my repositories.
+* React.js, Tailwind CSS
+* Node.js, Express.js
+* MongoDB
+* Firebase Authentication
 
 ---
 
-## GitHub Statistics
+### 🏢 AssetVerse – HR Asset Management System
+
+A full-stack HR-focused web application that allows organizations to **manage employee assets efficiently** and maintain transparent request workflows.
+
+**Key Features**
+
+* Role-based access system (HR & Employee)
+* HR can assign and manage company assets
+* Employees can request assets and track request status
+* Secure authentication with Firebase
+* Dashboard-driven SPA architecture
+
+**Tech Stack**
+
+* React.js, Tailwind CSS
+* Node.js, Express.js
+* MongoDB
+* Firebase Authentication
+* React Router
+
+> 📌 Live demos, screenshots, and documentation are available in the respective repositories.
+
+---
+
+## 📊 GitHub Statistics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=fhpantho&show_icons=true&theme=default" height="165" />
@@ -128,12 +115,13 @@ React Router (SPA)
 
 ---
 
-## Professional Interests
+## 🎯 Professional Interests
 
 * Scalable web architecture
 * Performance optimization
 * Clean code & best practices
 * Product-focused development
+* Startup-oriented engineering
 
 ---
 
