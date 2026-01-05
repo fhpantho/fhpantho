@@ -1,7 +1,7 @@
 <!-- ===================== PROFESSIONAL STARTUP GITHUB PROFILE README ===================== -->
 
 <p align="center">
-  <img src="https://i.ibb.co.com/jN1rNLC/1.png" width="100%" />
+  <img src="https://i.ibb.co.com/jN1rNLC/1.png" style="width:100%; height:auto; object-fit:cover;" />
 </p>
 
 <h1 align="center">Fahim Hossen</h1>
@@ -80,9 +80,7 @@ A productivity-focused web application that enables users to **build, track, and
 * MongoDB
 * Firebase Authentication
 
-**Live link :- 
-https://habbit-tracker-fhpantho.netlify.app
-
+**Live link:** [https://habbit-tracker-fhpantho.netlify.app](https://habbit-tracker-fhpantho.netlify.app)
 
 ---
 
@@ -106,8 +104,7 @@ A full-stack HR-focused web application that allows organizations to **manage em
 * Firebase Authentication
 * React Router
 
-**Live link :- 
-https://assetversefhpantho.netlify.app/
+**Live link:** [https://assetversefhpantho.netlify.app/](https://assetversefhpantho.netlify.app/)
 
 ---
 
@@ -130,9 +127,8 @@ A modern **frontend-only marketplace application** designed to connect pet owner
 * JavaScript (ES6+)
 * React Router
 
+**Live link:** [https://warmpaws-international.netlify.app/](https://warmpaws-international.netlify.app/)
 
-**Live link :- 
-https://warmpaws-international.netlify.app/
 ---
 
 ## 📊 GitHub Statistics
